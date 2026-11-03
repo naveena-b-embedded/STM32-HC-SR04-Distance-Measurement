@@ -54,7 +54,6 @@ The HC-SR04 ultrasonic sensor is interfaced with the STM32 NUCLEO-F446RE using t
 
 The GPIO configuration is performed using STM32CubeIDE.
 
-![Pinout and Configuration Setup](pinout & configuartion_setup_image.jpeg)
 ### 2. STM32CubeIDE Project Manager Configuration
 
 The project is configured in STM32CubeIDE by selecting the STM32F446RE microcontroller and configuring the required project settings and development environment.
