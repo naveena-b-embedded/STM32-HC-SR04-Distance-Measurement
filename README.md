@@ -74,8 +74,7 @@ The HC-SR04 ultrasonic sensor is connected to the STM32 NUCLEO-F446RE developmen
 
 The TRIG and ECHO signals are connected to PB10 and PC7 respectively. The board communicates with the computer through its USB connection.
 
-![Hardware Setup](hardware_setup_image.jpeg)
-
+![Hardware Setup](ultrasonic_hardware_setup_image.jpeg)
 ### 5. PowerShell Serial Output
 
 Windows PowerShell is used to receive and display the distance measurements transmitted by the STM32 board through the USART2 virtual COM port.
